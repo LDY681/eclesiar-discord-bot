@@ -1,0 +1,635 @@
+{
+  "code": 200,
+  "description": "Success",
+  "data": [{
+      "id": 462,
+      "attackers": {
+          "id": 3,
+          "name": "United States of America",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/552.svg?v=284cf20740d4651b634bff0c3f039aa2"
+      },
+      "defenders": {
+          "id": 4,
+          "name": "Mexico",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/555.svg?v=1a8542ff1e400c500a602294f4e90129"
+      },
+      "region": {
+          "id": 17,
+          "name": "Guadalajara"
+      },
+      "attackers_score": 8,
+      "defenders_score": 0,
+      "current_round_number": 9,
+      "current_round_id": 4158,
+      "flags": {
+          "is_revolution": 0
+      },
+      "current_round": {
+          "id": 4158,
+          "end_date": "2024-10-11 15:04:54",
+          "attackers_score": 114696,
+          "defenders_score": 0,
+          "attackers_points": 1090,
+          "defenders_points": 0,
+          "attackers_hero": {
+              "id": "264",
+              "username": "Agui",
+              "avatar": "https:\/\/storage.eclesiar.com\/medias\/1264.jpg?v=d41d8cd98f00b204e9800998ecf8427e",
+              "damage": "80870"
+          },
+          "defenders_hero": null
+      }
+  }, {
+      "id": 463,
+      "attackers": {
+          "id": 3,
+          "name": "United States of America",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/552.svg?v=284cf20740d4651b634bff0c3f039aa2"
+      },
+      "defenders": {
+          "id": 6,
+          "name": "Peru",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/603.svg?v=1c5b682ff5505a6c8cc1ac841287c176"
+      },
+      "region": {
+          "id": 27,
+          "name": "Iquitos"
+      },
+      "attackers_score": 8,
+      "defenders_score": 0,
+      "current_round_number": 9,
+      "current_round_id": 4167,
+      "flags": {
+          "is_revolution": 0
+      },
+      "current_round": {
+          "id": 4167,
+          "end_date": "2024-10-11 15:05:59",
+          "attackers_score": 53146,
+          "defenders_score": 45553,
+          "attackers_points": 560,
+          "defenders_points": 250,
+          "attackers_hero": {
+              "id": "1228",
+              "username": "dzoodz",
+              "avatar": "https:\/\/storage.eclesiar.com\/medias\/794.jpg?v=d41d8cd98f00b204e9800998ecf8427e",
+              "damage": "48612"
+          },
+          "defenders_hero": {
+              "id": "1755",
+              "username": "KockaSi",
+              "avatar": "https:\/\/storage.eclesiar.com\/medias\/912.jpg?v=d41d8cd98f00b204e9800998ecf8427e",
+              "damage": "29798"
+          }
+      }
+  }, {
+      "id": 464,
+      "attackers": {
+          "id": 16,
+          "name": "Sweden",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/626.svg?v=41138385a5f3787bfb559164fe147b09"
+      },
+      "defenders": {
+          "id": 15,
+          "name": "Germany",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/625.svg?v=614b9034682252e20ec49bbf208161d8"
+      },
+      "region": {
+          "id": 75,
+          "name": "Hamburg"
+      },
+      "attackers_score": 5,
+      "defenders_score": 3,
+      "current_round_number": 9,
+      "current_round_id": 4176,
+      "flags": {
+          "is_revolution": 0
+      },
+      "current_round": {
+          "id": 4176,
+          "end_date": "2024-10-11 15:27:59",
+          "attackers_score": 213116,
+          "defenders_score": 153706,
+          "attackers_points": 640,
+          "defenders_points": 0,
+          "attackers_hero": {
+              "id": "913",
+              "username": "Nesa Mesa",
+              "avatar": "https:\/\/storage.eclesiar.com\/medias\/1029.jpg?v=d41d8cd98f00b204e9800998ecf8427e",
+              "damage": "69967"
+          },
+          "defenders_hero": {
+              "id": "174",
+              "username": "Gamora",
+              "avatar": "https:\/\/storage.eclesiar.com\/medias\/1568.jpg?v=d41d8cd98f00b204e9800998ecf8427e",
+              "damage": "44838"
+          }
+      }
+  }, {
+      "id": 465,
+      "attackers": {
+          "id": 46,
+          "name": "Indonesia",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/688.svg?v=f687e7775d16efd95ba080ec11f38c22"
+      },
+      "defenders": {
+          "id": 47,
+          "name": "Australia",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/690.svg?v=46ee616f120b8d570df973be668909c9"
+      },
+      "region": {
+          "id": 280,
+          "name": "Adelaide"
+      },
+      "attackers_score": 7,
+      "defenders_score": 0,
+      "current_round_number": 8,
+      "current_round_id": 4184,
+      "flags": {
+          "is_revolution": 0
+      },
+      "current_round": {
+          "id": 4184,
+          "end_date": "2024-10-11 13:42:42",
+          "attackers_score": 122765,
+          "defenders_score": 13789,
+          "attackers_points": 4680,
+          "defenders_points": 0,
+          "attackers_hero": {
+              "id": "1629",
+              "username": "Danz",
+              "avatar": "https:\/\/storage.eclesiar.com\/medias\/721.jpg?v=d41d8cd98f00b204e9800998ecf8427e",
+              "damage": "43372"
+          },
+          "defenders_hero": {
+              "id": "1545",
+              "username": "Zizifo",
+              "avatar": "https:\/\/storage.eclesiar.com\/medias\/839.jpg?v=d41d8cd98f00b204e9800998ecf8427e",
+              "damage": "10580"
+          }
+      }
+  }, {
+      "id": 466,
+      "attackers": {
+          "id": 23,
+          "name": "Serbia",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/633.svg?v=41e5010d4d40d26b3dcf69182e384960"
+      },
+      "defenders": {
+          "id": 24,
+          "name": "North Macedonia",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/634.svg?v=ac1b73d133b434131bebd59ab46f53c1"
+      },
+      "region": {
+          "id": 124,
+          "name": "Belgrade"
+      },
+      "attackers_score": 5,
+      "defenders_score": 2,
+      "current_round_number": 8,
+      "current_round_id": 4193,
+      "flags": {
+          "is_revolution": 1
+      },
+      "current_round": {
+          "id": 4193,
+          "end_date": "2024-10-11 14:28:55",
+          "attackers_score": 235383,
+          "defenders_score": 86753,
+          "attackers_points": 1750,
+          "defenders_points": 320,
+          "attackers_hero": {
+              "id": "218",
+              "username": "Oritron",
+              "avatar": "https:\/\/storage.eclesiar.com\/medias\/936.jpg?v=d41d8cd98f00b204e9800998ecf8427e",
+              "damage": "114570"
+          },
+          "defenders_hero": {
+              "id": "1573",
+              "username": "Leapromes",
+              "avatar": "https:\/\/storage.eclesiar.com\/medias\/1552.jpg?v=d41d8cd98f00b204e9800998ecf8427e",
+              "damage": "47015"
+          }
+      }
+  }, {
+      "id": 467,
+      "attackers": {
+          "id": 34,
+          "name": "Georgia",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/663.svg?v=3c6f6855a85cbb76e67e926b8fa0a604"
+      },
+      "defenders": {
+          "id": 31,
+          "name": "Turkey",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/640.svg?v=88efd831fecebcb44ed2a6b490265392"
+      },
+      "region": {
+          "id": 192,
+          "name": "Batumi"
+      },
+      "attackers_score": 0,
+      "defenders_score": 7,
+      "current_round_number": 8,
+      "current_round_id": 4202,
+      "flags": {
+          "is_revolution": 1
+      },
+      "current_round": {
+          "id": 4202,
+          "end_date": "2024-10-11 15:35:15",
+          "attackers_score": 182421,
+          "defenders_score": 184180,
+          "attackers_points": 360,
+          "defenders_points": 130,
+          "attackers_hero": {
+              "id": "1941",
+              "username": "ExceptionalS",
+              "avatar": "https:\/\/storage.eclesiar.com\/medias\/1107.jpg?v=d41d8cd98f00b204e9800998ecf8427e",
+              "damage": "119314"
+          },
+          "defenders_hero": {
+              "id": "2188",
+              "username": "Muffler",
+              "avatar": "https:\/\/storage.eclesiar.com\/medias\/placeholder_user.jpg",
+              "damage": "104207"
+          }
+      }
+  }, {
+      "id": 468,
+      "attackers": {
+          "id": 7,
+          "name": "Brazil",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/606.svg?v=ce8b667eff1ac9d385a38d4be3401601"
+      },
+      "defenders": {
+          "id": 6,
+          "name": "Peru",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/603.svg?v=1c5b682ff5505a6c8cc1ac841287c176"
+      },
+      "region": {
+          "id": 29,
+          "name": "Arequipa"
+      },
+      "attackers_score": 5,
+      "defenders_score": 1,
+      "current_round_number": 7,
+      "current_round_id": 4210,
+      "flags": {
+          "is_revolution": 0
+      },
+      "current_round": {
+          "id": 4210,
+          "end_date": "2024-10-11 15:11:05",
+          "attackers_score": 132316,
+          "defenders_score": 46565,
+          "attackers_points": 940,
+          "defenders_points": 0,
+          "attackers_hero": {
+              "id": "1532",
+              "username": "Suanez",
+              "avatar": "https:\/\/storage.eclesiar.com\/medias\/1194.jpg?v=d41d8cd98f00b204e9800998ecf8427e",
+              "damage": "59700"
+          },
+          "defenders_hero": {
+              "id": "135",
+              "username": "Cimi",
+              "avatar": "https:\/\/storage.eclesiar.com\/medias\/695.jpg?v=d41d8cd98f00b204e9800998ecf8427e",
+              "damage": "46565"
+          }
+      }
+  }, {
+      "id": 469,
+      "attackers": {
+          "id": -2,
+          "name": "Black",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/placeholder_black_country.jpg"
+      },
+      "defenders": {
+          "id": -1,
+          "name": "White",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/placeholder_white_country.jpg"
+      },
+      "region": {
+          "id": 0,
+          "name": "Stadium"
+      },
+      "attackers_score": 5,
+      "defenders_score": 0,
+      "current_round_number": 6,
+      "current_round_id": 4218,
+      "flags": {
+          "is_revolution": 0
+      },
+      "current_round": {
+          "id": 4218,
+          "end_date": "2024-10-11 16:00:01",
+          "attackers_score": 62444,
+          "defenders_score": 24474,
+          "attackers_points": 50,
+          "defenders_points": 140,
+          "attackers_hero": {
+              "id": "1653",
+              "username": "Sultan",
+              "avatar": "https:\/\/storage.eclesiar.com\/medias\/1047.jpg?v=d41d8cd98f00b204e9800998ecf8427e",
+              "damage": "34979"
+          },
+          "defenders_hero": {
+              "id": "2504",
+              "username": "JacintoLeite",
+              "avatar": "https:\/\/storage.eclesiar.com\/medias\/1693.jpg?v=d41d8cd98f00b204e9800998ecf8427e",
+              "damage": "24474"
+          }
+      }
+  }, {
+      "id": 470,
+      "attackers": {
+          "id": 12,
+          "name": "France",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/616.svg?v=31e8c1d872acd6e52a5cbc798416c1bc"
+      },
+      "defenders": {
+          "id": 19,
+          "name": "Lithuania",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/629.svg?v=87aa71ff04366775b73a79422a4909c4"
+      },
+      "region": {
+          "id": 56,
+          "name": "Paris"
+      },
+      "attackers_score": 3,
+      "defenders_score": 0,
+      "current_round_number": 4,
+      "current_round_id": 4225,
+      "flags": {
+          "is_revolution": 1
+      },
+      "current_round": {
+          "id": 4225,
+          "end_date": "2024-10-11 15:59:21",
+          "attackers_score": 39363,
+          "defenders_score": 3163,
+          "attackers_points": 160,
+          "defenders_points": 0,
+          "attackers_hero": {
+              "id": "1468",
+              "username": "Bobi Coarach",
+              "avatar": "https:\/\/storage.eclesiar.com\/medias\/703.jpg?v=d41d8cd98f00b204e9800998ecf8427e",
+              "damage": "39363"
+          },
+          "defenders_hero": {
+              "id": "343",
+              "username": "Fenabg",
+              "avatar": "https:\/\/storage.eclesiar.com\/medias\/714.jpg?v=d41d8cd98f00b204e9800998ecf8427e",
+              "damage": "2392"
+          }
+      }
+  }, {
+      "id": 471,
+      "attackers": {
+          "id": 39,
+          "name": "Saudi Arabia",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/672.svg?v=f7e962834add4c660213166928d9a420"
+      },
+      "defenders": {
+          "id": 36,
+          "name": "Egypt",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/666.svg?v=d8ceb640eaed07fa6e2d9c0d32b1568f"
+      },
+      "region": {
+          "id": 204,
+          "name": "Cairo"
+      },
+      "attackers_score": 1,
+      "defenders_score": 1,
+      "current_round_number": 3,
+      "current_round_id": 4233,
+      "flags": {
+          "is_revolution": 0
+      },
+      "current_round": {
+          "id": 4233,
+          "end_date": "2024-10-11 14:05:48",
+          "attackers_score": 154585,
+          "defenders_score": 48380,
+          "attackers_points": 1860,
+          "defenders_points": 1430,
+          "attackers_hero": {
+              "id": "158",
+              "username": "Aleksandar_718",
+              "avatar": "https:\/\/storage.eclesiar.com\/medias\/720.jpg?v=d41d8cd98f00b204e9800998ecf8427e",
+              "damage": "79605"
+          },
+          "defenders_hero": {
+              "id": "125",
+              "username": "llllllll",
+              "avatar": "https:\/\/storage.eclesiar.com\/medias\/875.jpg?v=d41d8cd98f00b204e9800998ecf8427e",
+              "damage": "41477"
+          }
+      }
+  }, {
+      "id": 472,
+      "attackers": {
+          "id": 41,
+          "name": "Pakistan",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/678.svg?v=ebc67e386b9cbf32a805a99b1617a930"
+      },
+      "defenders": {
+          "id": 43,
+          "name": "China",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/682.svg?v=82cd81ce176152d7ce00444f61a38dd4"
+      },
+      "region": {
+          "id": 234,
+          "name": "Islamabad"
+      },
+      "attackers_score": 0,
+      "defenders_score": 2,
+      "current_round_number": 3,
+      "current_round_id": 4242,
+      "flags": {
+          "is_revolution": 1
+      },
+      "current_round": {
+          "id": 4242,
+          "end_date": "2024-10-11 15:05:01",
+          "attackers_score": 0,
+          "defenders_score": 37232,
+          "attackers_points": 0,
+          "defenders_points": 1030,
+          "attackers_hero": null,
+          "defenders_hero": {
+              "id": "57",
+              "username": "Bunny Killer",
+              "avatar": "https:\/\/storage.eclesiar.com\/medias\/1485.jpg?v=d41d8cd98f00b204e9800998ecf8427e",
+              "damage": "26838"
+          }
+      }
+  }, {
+      "id": 473,
+      "attackers": {
+          "id": 32,
+          "name": "Ukraine",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/657.svg?v=6d31da67eabbf9a2d233df29aa96f136"
+      },
+      "defenders": {
+          "id": 28,
+          "name": "Romania",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/638.svg?v=0ee27255285c3880c25ea770e0844f13"
+      },
+      "region": {
+          "id": 179,
+          "name": "Odesa"
+      },
+      "attackers_score": 0,
+      "defenders_score": 1,
+      "current_round_number": 2,
+      "current_round_id": 4250,
+      "flags": {
+          "is_revolution": 1
+      },
+      "current_round": {
+          "id": 4250,
+          "end_date": "2024-10-11 14:39:04",
+          "attackers_score": 28704,
+          "defenders_score": 60203,
+          "attackers_points": 0,
+          "defenders_points": 1770,
+          "attackers_hero": {
+              "id": "348",
+              "username": "MysteriousMind",
+              "avatar": "https:\/\/storage.eclesiar.com\/medias\/1527.jpg?v=d41d8cd98f00b204e9800998ecf8427e",
+              "damage": "28704"
+          },
+          "defenders_hero": {
+              "id": "210",
+              "username": "zerogrozavu",
+              "avatar": "https:\/\/storage.eclesiar.com\/medias\/812.jpg?v=d41d8cd98f00b204e9800998ecf8427e",
+              "damage": "30539"
+          }
+      }
+  }, {
+      "id": 474,
+      "attackers": {
+          "id": 20,
+          "name": "Slovenia",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/630.svg?v=c8f78f7386bde3428ff664447e183493"
+      },
+      "defenders": {
+          "id": 21,
+          "name": "Croatia",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/631.svg?v=cf2c92421a26e09ac33645e1c455cecf"
+      },
+      "region": {
+          "id": 113,
+          "name": "Vara\u017edin"
+      },
+      "attackers_score": 1,
+      "defenders_score": 0,
+      "current_round_number": 2,
+      "current_round_id": 4259,
+      "flags": {
+          "is_revolution": 0
+      },
+      "current_round": {
+          "id": 4259,
+          "end_date": "2024-10-11 15:45:30",
+          "attackers_score": 67013,
+          "defenders_score": 0,
+          "attackers_points": 350,
+          "defenders_points": 0,
+          "attackers_hero": {
+              "id": "437",
+              "username": "King of Darkness",
+              "avatar": "https:\/\/storage.eclesiar.com\/medias\/879.jpg?v=d41d8cd98f00b204e9800998ecf8427e",
+              "damage": "57307"
+          },
+          "defenders_hero": null
+      }
+  }, {
+      "id": 475,
+      "attackers": {
+          "id": 19,
+          "name": "Lithuania",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/629.svg?v=87aa71ff04366775b73a79422a4909c4"
+      },
+      "defenders": {
+          "id": 28,
+          "name": "Romania",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/638.svg?v=0ee27255285c3880c25ea770e0844f13"
+      },
+      "region": {
+          "id": 181,
+          "name": "Zaporizhzhia"
+      },
+      "attackers_score": 0,
+      "defenders_score": 0,
+      "current_round_number": 1,
+      "current_round_id": 4267,
+      "flags": {
+          "is_revolution": 0
+      },
+      "current_round": {
+          "id": 4267,
+          "end_date": "2024-10-11 13:40:07",
+          "attackers_score": 3256729,
+          "defenders_score": 3286152,
+          "attackers_points": 3120,
+          "defenders_points": 1680,
+          "attackers_hero": {
+              "id": "1725",
+              "username": "Puolejas",
+              "avatar": "https:\/\/storage.eclesiar.com\/medias\/943.jpg?v=d41d8cd98f00b204e9800998ecf8427e",
+              "damage": "526293"
+          },
+          "defenders_hero": {
+              "id": "1214",
+              "username": "oSetas",
+              "avatar": "https:\/\/storage.eclesiar.com\/medias\/850.jpg?v=d41d8cd98f00b204e9800998ecf8427e",
+              "damage": "240536"
+          }
+      }
+  }, {
+      "id": 476,
+      "attackers": {
+          "id": 30,
+          "name": "Bulgaria",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/639.svg?v=25c2ba700cc703b47c451adc0263b160"
+      },
+      "defenders": {
+          "id": 28,
+          "name": "Romania",
+          "avatar": "https:\/\/storage.eclesiar.com\/medias\/638.svg?v=0ee27255285c3880c25ea770e0844f13"
+      },
+      "region": {
+          "id": 162,
+          "name": "Craiova"
+      },
+      "attackers_score": 0,
+      "defenders_score": 0,
+      "current_round_number": 1,
+      "current_round_id": 4276,
+      "flags": {
+          "is_revolution": 0
+      },
+      "current_round": {
+          "id": 4276,
+          "end_date": "2024-10-11 13:41:02",
+          "attackers_score": 5616495,
+          "defenders_score": 5569265,
+          "attackers_points": 1040,
+          "defenders_points": 3700,
+          "attackers_hero": {
+              "id": "953",
+              "username": "Sisko02",
+              "avatar": "https:\/\/storage.eclesiar.com\/medias\/placeholder_user.jpg",
+              "damage": "254354"
+          },
+          "defenders_hero": {
+              "id": "210",
+              "username": "zerogrozavu",
+              "avatar": "https:\/\/storage.eclesiar.com\/medias\/812.jpg?v=d41d8cd98f00b204e9800998ecf8427e",
+              "damage": "877188"
+          }
+      }
+  }]
+}

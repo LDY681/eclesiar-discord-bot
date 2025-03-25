@@ -1,0 +1,41 @@
+{
+  "name": "eclesiar-bot",
+  "version": "1.0.0",
+  "description": "The one and only Eclesiar Bot, made with ❤️ by FUZZY",
+  "main": "app.js",
+  "scripts": {
+    "build": "npm install",
+    "dev": "node app.js",
+    "start": "pm2 start app.js --name eclesiar-bot --time -l ./logs/app.log",
+    "stop": "pm2 delete all",
+    "log": "pm2 logs eclesiar-bot eclesiar-bot --lines 1000"
+  },
+  "dependencies": {
+    "asynckit": "^0.4.0",
+    "axios": "^1.7.7",
+    "callsites": "^3.1.0",
+    "cheerio": "^1.0.0",
+    "combined-stream": "^1.0.8",
+    "delayed-stream": "^1.0.0",
+    "discord-api-types": "^0.22.0",
+    "discord.js": "^14.15.3",
+    "dot-prop": "^6.0.1",
+    "dotenv": "^16.4.5",
+    "is-obj": "^2.0.0",
+    "lodash.isequal": "^4.5.0",
+    "mime-db": "^1.50.0",
+    "mime-types": "^2.1.33",
+    "node-fetch": "^3.2.10",
+    "ow": "^0.27.0",
+    "pm2": "^5.4.2",
+    "sqlite3": "^5.1.7",
+    "tr46": "^0.0.3",
+    "ts-mixer": "^6.0.0",
+    "tslib": "^2.3.1",
+    "type-fest": "^1.4.0",
+    "vali-date": "^1.0.0",
+    "webidl-conversions": "^3.0.1",
+    "whatwg-url": "^5.0.0",
+    "ws": "^7.5.5"
+  }
+}
