@@ -1,6 +1,13 @@
 # Eclesiar Discord BOT
 Discord.js + SQLite + ❤
 
+## End of Life
+This bot is no longer under maintainance and is out of date since the official API update.  
+Happily used by over 20 servers/countries and helped tracking over 1200 battles (2024-10-09 - 2025-05-12)  
+https://eclesiar.com/newspaper/18/article/41  
+
+<img width="672" height="408" alt="{B293E92B-EC49-4463-85D7-E1C220B15219}" src="https://github.com/user-attachments/assets/c83cb373-b1e9-4cb2-9b8b-487d408fcb87" />
+
 ## Environment Variables
 Check `.env` file to configure the environment variables.
 
